@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="fetch_weather">Fetch Weather</string>
+    <string name="change_unit">Change Unit</string>
+    <string name="error_fetching_weather">Error fetching weather</string>
+</resources>
